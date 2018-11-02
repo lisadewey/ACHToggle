@@ -1,0 +1,7 @@
+C:\Users\lmdew\Desktop\MW-exercises\ACHToggle\ACHToggle\bin\Debug\ACHToggle.exe.config
+C:\Users\lmdew\Desktop\MW-exercises\ACHToggle\ACHToggle\bin\Debug\ACHToggle.exe
+C:\Users\lmdew\Desktop\MW-exercises\ACHToggle\ACHToggle\bin\Debug\ACHToggle.pdb
+C:\Users\lmdew\Desktop\MW-exercises\ACHToggle\ACHToggle\obj\Debug\ACHToggle.csprojAssemblyReference.cache
+C:\Users\lmdew\Desktop\MW-exercises\ACHToggle\ACHToggle\obj\Debug\ACHToggle.csproj.CoreCompileInputs.cache
+C:\Users\lmdew\Desktop\MW-exercises\ACHToggle\ACHToggle\obj\Debug\ACHToggle.exe
+C:\Users\lmdew\Desktop\MW-exercises\ACHToggle\ACHToggle\obj\Debug\ACHToggle.pdb
